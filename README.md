@@ -1,1 +1,1 @@
-# https://github.com/minoru-yamanaka/calculadoraJava Calculadora Java simples -> Apenas some dois números
+# Calculadora Java simples https://github.com/minoru-yamanaka/calculadoraJava Calculadora Java simples -> Apenas some dois números
